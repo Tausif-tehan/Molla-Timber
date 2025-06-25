@@ -51,8 +51,8 @@ Molla Timber and Sawmill website
   </section>  <!-- Contact Info -->  <section class="py-16 px-6 bg-white text-center">
     <h3 class="text-3xl font-bold mb-6">Contact Us | যোগাযোগ করুন</h3>
     <p><strong>Address:</strong> Village Road, Jessore, Bangladesh</p>
-    <p><strong>Phone:</strong> +880 1XXXX XXXXX</p>
-    <p><strong>Email:</strong> info@mollatimber.com</p>
+    <p><strong>Phone:</strong> 01736-602266,01711115948</p>
+    <p><strong>Email:</strong> tausiftehan@gmail.com</p>
   </section>  <!-- Footer -->  <footer class="bg-green-800 text-white text-center py-4">
     &copy; 2025 Molla Timber and Sawmill. All rights reserved. | সর্বস্বত্ব সংরক্ষিত
   </footer>
